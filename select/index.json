@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "秘密の",
+  "base_artist": "Aki",
+  "createdAt": "2026-01-13T18:31:03.905608Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "秘密の",
+      "artist": "Aki",
+      "has_synced": false,
+      "path": "select/pl_01_秘密の_Aki.txt"
+    }
+  ]
+}
